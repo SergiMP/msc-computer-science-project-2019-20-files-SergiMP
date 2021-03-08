@@ -1,1 +1,1 @@
-##This application needs MongoDB, RabbitMQ, PostgreSQL and a sendgrid account to work.
+This application was developed to illustrate how small and medium size organizations can use open source tools to improve their data management processes.

@@ -1,0 +1,39 @@
+{
+  "name": "msc-computer-science-project-2019-20-files-SergiMP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Birkbeck/msc-computer-science-project-2019-20-files-SergiMP.git"
+  },
+  "keywords": [
+    "Kafka",
+    "Stream Processing",
+    "Node.js"
+  ],
+  "author": "Sergio Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Birkbeck/msc-computer-science-project-2019-20-files-SergiMP/issues"
+  },
+  "homepage": "https://github.com/Birkbeck/msc-computer-science-project-2019-20-files-SergiMP#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.2.5",
+    "amqplib": "^0.6.0",
+    "csv-parser": "^2.3.3",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "moment": "^2.29.0",
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.3",
+    "node-cron": "^2.0.3",
+    "pg": "^8.3.3",
+    "pg-format": "^1.0.4",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}

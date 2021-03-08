@@ -1,0 +1,7 @@
+[
+{"object" : "survey","content" : {"reviewer_id" :1176, "overall_satisfaction" : 1, "advisor_satisfaction" :3,"easiness_interface":2,"usefulness_service":5,"interest_mob_app":3,"recommend_friend":5 },"date_submitted":"02-10-2020"},
+{"object" : "survey","content" : {"reviewer_id" :1177, "overall_satisfaction" : 10, "advisor_satisfaction" :7,"easiness_interface":7,"usefulness_service":6,"interest_mob_app":6,"recommend_friend":6 },"date_submitted":"02-10-2020"},
+{"object" : "survey","content" : {"reviewer_id" :1178, "overall_satisfaction" : 4, "advisor_satisfaction" :10,"easiness_interface":6,"usefulness_service":9,"interest_mob_app":7,"recommend_friend":2 },"date_submitted":"03-10-2020"},
+{"object" : "survey","content" : {"reviewer_id" :1179, "overall_satisfaction" : 6, "advisor_satisfaction" :6,"easiness_interface":1,"usefulness_service":4,"interest_mob_app":9,"recommend_friend":7 },"date_submitted":"03-10-2020"},
+{"object" : "survey","content" : {"reviewer_id" :1180, "overall_satisfaction" : 7, "advisor_satisfaction" :7,"easiness_interface":7,"usefulness_service":2,"interest_mob_app":4,"recommend_friend":10 },"date_submitted":"03-10-2020"}
+]

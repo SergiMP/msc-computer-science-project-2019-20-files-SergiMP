@@ -1,0 +1,3 @@
+
+
+java -jar schemaspy-6.1.0.jar -t pgsql11 -dp C:/Users/smunoz/Downloads postgresql-42.2.14.jar -db investor -host localhost -port 5432 -u postgres -o /c/Users/smunoz -p postgres -s investment_manager -gv C:/Users/smunoz/Downloads/release/
